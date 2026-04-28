@@ -1,0 +1,16 @@
+.BoxStatueMinimapRoot {
+  width: 100%;
+  height: 100%;
+}
+
+.BoxStatueMinimapIcon {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #9cf6ff;
+  box-shadow: 0 0 4px #000;
+}
+
+.BoxStatueMinimapIcon.is-gold-statue {
+  background-color: #ffd35c;
+}

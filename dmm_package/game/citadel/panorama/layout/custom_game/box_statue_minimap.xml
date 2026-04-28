@@ -1,0 +1,11 @@
+<root>
+  <styles>
+    <include src="file://{resources}/styles/custom_game/box_statue_minimap.css" />
+  </styles>
+  <scripts>
+    <include src="file://{resources}/scripts/custom_game/box_statue_minimap_data.js" />
+    <include src="file://{resources}/scripts/custom_game/box_statue_minimap.js" />
+    <include src="file://{resources}/scripts/custom_game/box_statue_minimap_bootstrap.js" />
+  </scripts>
+  <Panel id="BoxStatueMinimapRoot" />
+</root>
